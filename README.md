@@ -28,7 +28,7 @@
 
 # 📖 Overview
 
-This project is an **Excel VBA automation tool** developed during my Supply Chain internship at **Phillips & Temro Industries**.
+This project is an **Excel VBA automation tool**.
 
 The tool streamlines SAP procurement planning by importing multiple SAP reports, consolidating exception message data into a single report, and automatically prioritizing buyer actions based on predefined business rules.
 
@@ -158,13 +158,13 @@ This automation transforms a repetitive procurement reporting process into a sta
 
 ## 📄 Exception Report
 
-![REPORT OVERVIEW](REPORT OVERVIEW.png)
+![image](REPORT OVERVIEW.png)
 
 ---
 
 ## 📈 Charts
 
-![CHARTS(images/CHARTS.png)
+![image](CHARTS.png)
 
 ---
 

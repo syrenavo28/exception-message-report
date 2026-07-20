@@ -22,7 +22,7 @@
 >
 > **Confidentiality Notice**
 >
-> All datasets, screenshots, material numbers, supplier names, purchase orders, and business records shown in this repository have been **anonymized, modified, or synthetically generated** for demonstration purposes. No confidential or proprietary information from **Phillips & Temro Industries** is included.
+> All datasets, screenshots, material numbers, supplier names, purchase orders, and business records shown in this repository have been **anonymized, modified, or synthetically generated** for demonstration purposes. No confidential or proprietary information is included.
 
 ---
 
@@ -165,17 +165,6 @@ This automation transforms a repetitive procurement reporting process into a sta
 ## 📈 Charts
 
 ![CHARTS(images/CHARTS.png)
-
----
-
-# 🚀 Future Improvements
-
-- 🔗 Direct SAP data integration
-- 📊 Interactive Power BI dashboard
-- 📧 Automatic email alerts for critical exception messages
-- 📅 Historical trend analysis
-- ⚡ Power Query integration
-- 🗄 SQL database support
 
 ---
 

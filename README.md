@@ -133,10 +133,7 @@ SAP-Exception-Report/
 │
 ├── images/
 │   ├── report_overview.png
-│   ├── summary_dashboard.png
 │   ├── charts.png
-│   └── workflow.png
-│
 └── sample-data/
 ```
 
@@ -158,7 +155,7 @@ This automation transforms a repetitive procurement reporting process into a sta
 
 ## 📄 Exception Report
 
-![Report Overview](report_overview.png)
+![Exception Report](report_overview.png)
 
 ---
 

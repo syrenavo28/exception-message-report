@@ -158,19 +158,13 @@ This automation transforms a repetitive procurement reporting process into a sta
 
 ## 📄 Exception Report
 
-![Exception Report](images/report_overview.png)
-
----
-
-## 📊 Summary Dashboard
-
-![Summary Dashboard](images/summary_dashboard.png)
+![REPORT OVERVIEW](REPORT OVERVIEW.png)
 
 ---
 
 ## 📈 Charts
 
-![Charts](images/charts.png)
+![CHARTS(images/CHARTS.png)
 
 ---
 

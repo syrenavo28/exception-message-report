@@ -159,9 +159,9 @@ This automation transforms a repetitive procurement reporting process into a sta
 
 ---
 
-## 📈 Charts
+## 📊 Charts
 
-![image](CHARTS.png)
+![Charts](charts.png)
 
 ---
 

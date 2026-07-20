@@ -10,8 +10,6 @@
 
 <img src="https://img.shields.io/badge/Automation-Workflow-success?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge">
-
 </p>
 
 > ### 🚀 Automates SAP MRP exception message reporting by consolidating multiple SAP exports into one centralized report, allowing procurement teams to quickly prioritize buyer actions through automated business rules and color-coded priorities.

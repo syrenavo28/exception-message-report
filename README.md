@@ -158,7 +158,7 @@ This automation transforms a repetitive procurement reporting process into a sta
 
 ## 📄 Exception Report
 
-![image](REPORT OVERVIEW.png)
+![image](REPORT_OVERVIEW.png)
 
 ---
 
